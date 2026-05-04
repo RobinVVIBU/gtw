@@ -1,0 +1,300 @@
+{
+  "data": {
+    "mal_id": 152119,
+    "url": "https://myanimelist.net/character/152119/Rin_Shima",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/characters/10/358813.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/characters/10/358813.webp",
+        "small_image_url": "https://myanimelist.net/images/characters/10/358813t.webp"
+      }
+    },
+    "name": "Rin Shima",
+    "name_kanji": "志摩 リン",
+    "nicknames": [
+      "Shimarin"
+    ],
+    "favorites": 6056,
+    "about": "Rin is a young girl who enjoys camping. She usually camps by herself, until she meets Nadeshiko.\n\nRin has purple eyes, dark-purple hair, and pale skin.\n\nWhen camping, she wears brown boots and black leggings, a pinkish dress, and a green sweater underneath a plaid grey shawl. She usually keeps her hair in a bun. Sometimes she also wears a white knit-cap and has her hair loose. In one of the episodes, Ena Saitou tied her bun into a small teddy bear.\n\n(Source: Yuru Camp Wiki)",
+    "anime": [
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 34798,
+          "url": "https://myanimelist.net/anime/34798/Yuru_Camp△",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/4/89877.jpg?s=24bca2552c22ff5ab094fd0a3b89c991",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89877t.jpg?s=24bca2552c22ff5ab094fd0a3b89c991",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89877l.jpg?s=24bca2552c22ff5ab094fd0a3b89c991"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/4/89877.webp?s=24bca2552c22ff5ab094fd0a3b89c991",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89877t.webp?s=24bca2552c22ff5ab094fd0a3b89c991",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89877l.webp?s=24bca2552c22ff5ab094fd0a3b89c991"
+            }
+          },
+          "title": "Yuru Camp△"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 37341,
+          "url": "https://myanimelist.net/anime/37341/Yuru_Camp△_Specials",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1258/91059.jpg?s=a78269ec354e2582b6ff27692f55e08c",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1258/91059t.jpg?s=a78269ec354e2582b6ff27692f55e08c",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1258/91059l.jpg?s=a78269ec354e2582b6ff27692f55e08c"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1258/91059.webp?s=a78269ec354e2582b6ff27692f55e08c",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1258/91059t.webp?s=a78269ec354e2582b6ff27692f55e08c",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1258/91059l.webp?s=a78269ec354e2582b6ff27692f55e08c"
+            }
+          },
+          "title": "Yuru Camp△ Specials"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 38474,
+          "url": "https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg?s=196e7921b6cae4e06875a07057fb233d",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636t.jpg?s=196e7921b6cae4e06875a07057fb233d",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636l.jpg?s=196e7921b6cae4e06875a07057fb233d"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1255/110636.webp?s=196e7921b6cae4e06875a07057fb233d",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636t.webp?s=196e7921b6cae4e06875a07057fb233d",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636l.webp?s=196e7921b6cae4e06875a07057fb233d"
+            }
+          },
+          "title": "Yuru Camp△ Season 2"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 38475,
+          "url": "https://myanimelist.net/anime/38475/Yuru_Camp△_Movie",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1806/124396.jpg?s=d672f9e149eee1f445c0ec6f08763248",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/124396t.jpg?s=d672f9e149eee1f445c0ec6f08763248",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/124396l.jpg?s=d672f9e149eee1f445c0ec6f08763248"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1806/124396.webp?s=d672f9e149eee1f445c0ec6f08763248",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/124396t.webp?s=d672f9e149eee1f445c0ec6f08763248",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/124396l.webp?s=d672f9e149eee1f445c0ec6f08763248"
+            }
+          },
+          "title": "Yuru Camp△ Movie"
+        }
+      },
+      {
+        "role": "Supporting",
+        "anime": {
+          "mal_id": 38476,
+          "url": "https://myanimelist.net/anime/38476/Heya_Camp△",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1228/104364.jpg?s=36c36fc08ead64cfb33a8bf7bb361c59",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/104364t.jpg?s=36c36fc08ead64cfb33a8bf7bb361c59",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/104364l.jpg?s=36c36fc08ead64cfb33a8bf7bb361c59"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1228/104364.webp?s=36c36fc08ead64cfb33a8bf7bb361c59",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/104364t.webp?s=36c36fc08ead64cfb33a8bf7bb361c59",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/104364l.webp?s=36c36fc08ead64cfb33a8bf7bb361c59"
+            }
+          },
+          "title": "Heya Camp△"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 41061,
+          "url": "https://myanimelist.net/anime/41061/Heya_Camp△__Sauna_to_Gohan_to_Sanrin_Bike",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1909/105734.jpg?s=1351acf6a8532dfe56ae1d5012d1749a",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1909/105734t.jpg?s=1351acf6a8532dfe56ae1d5012d1749a",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1909/105734l.jpg?s=1351acf6a8532dfe56ae1d5012d1749a"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1909/105734.webp?s=1351acf6a8532dfe56ae1d5012d1749a",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1909/105734t.webp?s=1351acf6a8532dfe56ae1d5012d1749a",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1909/105734l.webp?s=1351acf6a8532dfe56ae1d5012d1749a"
+            }
+          },
+          "title": "Heya Camp△: Sauna to Gohan to Sanrin Bike"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 49026,
+          "url": "https://myanimelist.net/anime/49026/Yuru_Camp△_Season_2_Specials",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1542/115070.jpg?s=c2db66903d5f6235b9cc3abfd6d54ebb",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/115070t.jpg?s=c2db66903d5f6235b9cc3abfd6d54ebb",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/115070l.jpg?s=c2db66903d5f6235b9cc3abfd6d54ebb"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1542/115070.webp?s=c2db66903d5f6235b9cc3abfd6d54ebb",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/115070t.webp?s=c2db66903d5f6235b9cc3abfd6d54ebb",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/115070l.webp?s=c2db66903d5f6235b9cc3abfd6d54ebb"
+            }
+          },
+          "title": "Yuru Camp△ Season 2 Specials"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 53410,
+          "url": "https://myanimelist.net/anime/53410/Yuru_Camp△_Season_3",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1178/142710.jpg?s=047e4f66954df6bd0a30530505c4d6ef",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1178/142710t.jpg?s=047e4f66954df6bd0a30530505c4d6ef",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1178/142710l.jpg?s=047e4f66954df6bd0a30530505c4d6ef"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1178/142710.webp?s=047e4f66954df6bd0a30530505c4d6ef",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1178/142710t.webp?s=047e4f66954df6bd0a30530505c4d6ef",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1178/142710l.webp?s=047e4f66954df6bd0a30530505c4d6ef"
+            }
+          },
+          "title": "Yuru Camp△ Season 3"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 58855,
+          "url": "https://myanimelist.net/anime/58855/Yuru_Camp△_Season_3_Specials",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1597/143098.jpg?s=67bda62215ee40929b0c6847fb49e91b",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/143098t.jpg?s=67bda62215ee40929b0c6847fb49e91b",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/143098l.jpg?s=67bda62215ee40929b0c6847fb49e91b"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1597/143098.webp?s=67bda62215ee40929b0c6847fb49e91b",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/143098t.webp?s=67bda62215ee40929b0c6847fb49e91b",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/143098l.webp?s=67bda62215ee40929b0c6847fb49e91b"
+            }
+          },
+          "title": "Yuru Camp△ Season 3 Specials"
+        }
+      },
+      {
+        "role": "Main",
+        "anime": {
+          "mal_id": 60267,
+          "url": "https://myanimelist.net/anime/60267/Yuru_Camp△_Season_4",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1391/155714.jpg?s=a5f4ab07572300d52b8dce13ae5ef915",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1391/155714t.jpg?s=a5f4ab07572300d52b8dce13ae5ef915",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1391/155714l.jpg?s=a5f4ab07572300d52b8dce13ae5ef915"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1391/155714.webp?s=a5f4ab07572300d52b8dce13ae5ef915",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1391/155714t.webp?s=a5f4ab07572300d52b8dce13ae5ef915",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1391/155714l.webp?s=a5f4ab07572300d52b8dce13ae5ef915"
+            }
+          },
+          "title": "Yuru Camp△ Season 4"
+        }
+      }
+    ],
+    "manga": [
+      {
+        "role": "Main",
+        "manga": {
+          "mal_id": 94376,
+          "url": "https://myanimelist.net/manga/94376/Yuru_Camp△",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/168083.jpg?s=73963e82064b609e8a6f6e67de8afbb8",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/168083t.jpg?s=73963e82064b609e8a6f6e67de8afbb8",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/168083l.jpg?s=73963e82064b609e8a6f6e67de8afbb8"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/168083.webp?s=73963e82064b609e8a6f6e67de8afbb8",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/168083t.webp?s=73963e82064b609e8a6f6e67de8afbb8",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/168083l.webp?s=73963e82064b609e8a6f6e67de8afbb8"
+            }
+          },
+          "title": "Yuru Camp△"
+        }
+      }
+    ],
+    "voices": [
+      {
+        "person": {
+          "mal_id": 11184,
+          "url": "https://myanimelist.net/people/11184/Nao_Touyama",
+          "images": {
+            "jpg": {
+              "image_url": "https://myanimelist.net/images/voiceactors/1/80625.jpg"
+            }
+          },
+          "name": "Touyama, Nao"
+        },
+        "language": "Japanese"
+      },
+      {
+        "person": {
+          "mal_id": 55860,
+          "url": "https://myanimelist.net/people/55860/Azumi_Botsu",
+          "images": {
+            "jpg": {
+              "image_url": "https://myanimelist.net/images/voiceactors/2/66277.jpg"
+            }
+          },
+          "name": "Botsu, Azumi"
+        },
+        "language": "Portuguese (BR)"
+      },
+      {
+        "person": {
+          "mal_id": 53629,
+          "url": "https://myanimelist.net/people/53629/Celeste_Perez",
+          "images": {
+            "jpg": {
+              "image_url": "https://myanimelist.net/images/voiceactors/1/68887.jpg"
+            }
+          },
+          "name": "Perez, Celeste"
+        },
+        "language": "English"
+      },
+      {
+        "person": {
+          "mal_id": 74002,
+          "url": "https://myanimelist.net/people/74002/Ximena_Fragoso",
+          "images": {
+            "jpg": {
+              "image_url": "https://myanimelist.net/images/voiceactors/1/80215.jpg"
+            }
+          },
+          "name": "Fragoso, Ximena"
+        },
+        "language": "Spanish"
+      }
+    ]
+  }
+}
